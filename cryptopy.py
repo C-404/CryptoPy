@@ -1,6 +1,8 @@
 import cryptocode
 import random
+import os
 from colorama import Fore, Style
+os.system('clear || clr')
 print(Fore.LIGHTGREEN_EX+' _____                  _       ______      ')
 print('/  __ \                | |      | ___ \     ')
 print('| /  \/_ __ _   _ _ __ | |_ ___ | |_/ /   _ ')
